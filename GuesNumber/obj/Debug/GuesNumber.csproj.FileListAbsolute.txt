@@ -1,0 +1,7 @@
+c:\users\serzh\source\repos\GuesNumber\GuesNumber\bin\Debug\GuesNumber.exe.config
+c:\users\serzh\source\repos\GuesNumber\GuesNumber\bin\Debug\GuesNumber.exe
+c:\users\serzh\source\repos\GuesNumber\GuesNumber\bin\Debug\GuesNumber.pdb
+c:\users\serzh\source\repos\GuesNumber\GuesNumber\obj\Debug\GuesNumber.csprojResolveAssemblyReference.cache
+c:\users\serzh\source\repos\GuesNumber\GuesNumber\obj\Debug\GuesNumber.csproj.CoreCompileInputs.cache
+c:\users\serzh\source\repos\GuesNumber\GuesNumber\obj\Debug\GuesNumber.exe
+c:\users\serzh\source\repos\GuesNumber\GuesNumber\obj\Debug\GuesNumber.pdb
